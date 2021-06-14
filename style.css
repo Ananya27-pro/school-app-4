@@ -1,0 +1,118 @@
+body{
+    background-color:#e3fafc;
+    text-align: center;
+}
+marquee{
+    font-size: 20px;
+    color:#70aae0;
+font-family: 'Pattaya', sans-serif;
+    
+}
+#video_school{
+   height: 400px;
+    width: 70%;
+   
+}
+#map_school{
+   height: 400px;
+    width:70%;
+   
+   
+}
+#s_W{
+   height: 400px;
+    width:70%;
+}
+#webpage_school{
+   height: 400px;
+    width: 70%;
+   
+}
+h1{
+    font-size: 30px;
+    color: cornflowerblue;
+}
+.succ_txt_1{
+    font-size: 25px;
+    margin-left: 500px;
+}
+
+
+.succ_txt_2{
+    font-size: 20px;
+    
+}
+
+.dang_txt_1{
+    margin-left: 500px;
+    font-size: 25px;
+}
+.dang_txt_2{
+ 
+    font-size: 20px;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
+label{
+    font-size: 18px;
+}
+.s_img{
+   height: 230px;
+    width: 230px;
+    margin-top:10px
+}
+.row::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.travel_mainDiv{
+    float: left;
+    width: 33.33%;
+        padding: 5px;
+    border: 1px solid #c7c7c7;
+
+}
+.travel_mainDiv img{
+    width: 70%;
+   height: 300px;
+    margin-left: 70px;
+}
+.travel_mainDiv hr{
+    width: 100%;
+    
+}
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin-left: 20px;
+    font-size: 18px;color: cornflowerblue;
+    text-align: center;
+    
+}
+.img12345{
+    height: 250px;
+    width: 400px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    
+}
+.book{
+    cursor: pointer;
+}
+#school_h1{
+    margin-top: 400px;
+}
+
+
+#alumni{
+    margin-left: 150px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img-responsive{
+    height: 300px;
+    width: 350px;
+    margin-left: 100px;
+}
